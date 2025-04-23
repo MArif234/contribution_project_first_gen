@@ -74,11 +74,11 @@ nav a:hover {
 
 /* Section Styling */
 section {
-  opacity: 0;
-  transform: translateY(30px);
-  animation: fadeIn 0.8s ease forwards;
-  animation-delay: 0.2s;
+  padding: 6rem 3rem; /* More vertical and horizontal breathing room */
+  max-width: 1000px;
+  margin: auto;
 }
+
 
 @keyframes fadeIn {
   to {
@@ -96,12 +96,13 @@ section h2 {
 
 .card {
   background: white;
-  padding: 1.5rem;
-  margin-top: 1rem;
+  padding: 2rem; /* was 1.5rem before */
+  margin-top: 2rem; /* give it a bit more vertical space */
   border-radius: 10px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+
 
 .card:hover {
   transform: translateY(-5px);
