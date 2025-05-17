@@ -21,11 +21,11 @@ This tool was created by a first-generation student, for first-generation studen
 
 Down the line, FirstGen Forward will evolve into an AI-powered assistant that can help students:
 
-Discover personalized career-building opportunities
+✅ Discover personalized career-building opportunities
 
-Get real-time advice on resume building and networking
+✅ Get real-time advice on resume building and networking
 
-Automatically match with internships and funding based on their background
+✅ Automatically match with internships and funding based on their background
 
-Navigate platforms like LinkedIn, Handshake, and school job boards more effectively
+✅ Navigate platforms like LinkedIn, Handshake, and school job boards more effectively
  
