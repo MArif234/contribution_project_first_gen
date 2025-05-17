@@ -4,6 +4,7 @@ FirstGen Forward is a digital resource hub built to empower first-generation col
 This project was initiated as part of the Cornell Contribution Project with a mission to bridge the information gap for students who may not have access to mentorship, institutional guidance, or networks.
 
 🌐 Project Overview
+
 FirstGen Forward is currently a website that curates resources and guidance on:
 
 ✅ Finding and funding conference opportunities
