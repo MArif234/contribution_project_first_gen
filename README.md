@@ -17,6 +17,7 @@ FirstGen Forward is currently a website that curates resources and guidance on:
 This tool was created by a first-generation student, for first-generation students, with the aim of making professional development more inclusive and transparent.
 
 🧠 Vision for the Future
+
 Down the line, FirstGen Forward will evolve into an AI-powered assistant that can help students:
 
 Discover personalized career-building opportunities
